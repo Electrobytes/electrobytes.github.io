@@ -1,0 +1,6 @@
+title: Electrobytes' Lab
+description: Test and play around anything that has 1's and 0's
+
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-remote-theme

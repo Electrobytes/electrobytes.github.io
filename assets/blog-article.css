@@ -1,0 +1,49 @@
+@import url("./theme.css");
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 50%; 
+}
+
+/* Common styling */
+a {
+    color: #EEE8E2;
+}
+
+code {
+    background-color: #14211D;
+    margin: 10pt;
+    padding: 5pt;
+    border-radius: 10px;
+}
+
+/* Header styling */
+header {
+    font-weight: 700;
+    text-align: left;
+}
+
+h1.title {
+    font-weight: 700;
+}
+
+small {
+    color: #7D8788;
+}
+
+img.thumbnail {
+    object-fit: contain;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 30px;
+}
+
+/* Body styling */
+article {
+    text-align: justify;
+    text-indent: 4ch each-line;
+    line-height: 28px;
+    margin-bottom: 42px;
+}

@@ -4,6 +4,12 @@
     Contains all the styles that are theme-dependent
 */
 
+
+/* Common */
+.topbar {
+    background-color: #11111b;
+}
+
 body {
     font-family: "Source Code Pro", monospace;
     font-optical-sizing: auto;
@@ -13,6 +19,7 @@ body {
     color: #cdd6f4;
 }
 
+/* Article */
 a {
     color: #89b4fa;
 }
@@ -25,10 +32,7 @@ code {
     background-color: #313244;
 }
 
-/* Topbar #start */
-.topbar {
-    background-color: #11111b;
-}
+
 
 
 

@@ -1,1 +1,11 @@
 @import url("./themes/catppuccin-mocha.css");
+
+.gallery {
+    margin: 2vh 2vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.feature {
+    padding: 2ch 0;
+}

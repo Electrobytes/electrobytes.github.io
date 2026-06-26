@@ -1,20 +1,9 @@
-@import url("./theme.css");
+@import url("./themes/catppuccin-mocha.css");
 
 .main-content {
     margin: auto;
-    max-width: 1000px;
-}
-
-/* Common styling */
-a {
-    color: #EEE8E2;
-}
-
-code {
-    background-color: #14211D;
-    margin: 10pt;
-    padding: 5pt;
-    border-radius: 10px;
+    margin-bottom: 5vh;
+    max-width: 60vw;
 }
 
 /* Header styling */
@@ -25,10 +14,6 @@ header {
 
 h1.title {
     font-weight: 700;
-}
-
-small {
-    color: #7D8788;
 }
 
 img.thumbnail {
@@ -42,6 +27,5 @@ img.thumbnail {
 article {
     text-align: justify;
     text-indent: 4ch each-line;
-    line-height: 28px;
-    margin-bottom: 42px;
+    line-height: 1.8em;
 }

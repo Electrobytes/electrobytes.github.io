@@ -1,0 +1,35 @@
+@import url("common.css");
+
+/*
+    Contains all the styles that are theme-dependent
+*/
+
+body {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+}
+
+a {
+    color: #89b4fa;
+}
+
+small {
+    color: #7f849c;
+}
+
+code {
+    background-color: #313244;
+}
+
+/* Topbar #start */
+.topbar {
+    background-color: #11111b;
+}
+
+
+
+/* Topbar #end */

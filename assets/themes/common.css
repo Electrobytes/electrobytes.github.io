@@ -1,0 +1,41 @@
+/* Contains all theme-independent styles */
+
+
+/* Code block (common) */
+code {
+    margin: 10pt;
+    padding: 5pt;
+    border-radius: 10px;
+}
+
+.topbar {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+    padding: 5px 2.5% 5px 2.5%;
+}
+
+/* Website Links */
+a.clickable:link, a.clickable:visited {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: pointer;
+}
+
+/* Menus */
+.menu {
+    display: inherit;
+    flex-direction: inherit;
+    margin: auto;
+    margin-left: 5%;
+    gap: 20%;
+}
+
+/* Splash text */
+.splash-text {
+    position: absolute;
+    top: 5px;
+    right: 2.5%;
+    text-align: end;
+}

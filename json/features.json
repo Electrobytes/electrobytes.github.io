@@ -1,0 +1,11 @@
+{
+    "feature_list": [
+        {
+            "link": "https://example.com",
+            "header": "Hello",
+            "subtext": "Hi",
+            "author": "Electro",
+            "date": "June 7, 2026"
+        }
+    ]
+}

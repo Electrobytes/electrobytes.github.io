@@ -1,3 +1,3 @@
 $(function() {
-    $("#topbar").load("/blog/topbar.html")
+    $("#topbar").load("/assets/topbar.html")
 })

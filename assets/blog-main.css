@@ -1,6 +1,6 @@
 @import url("./themes/catppuccin-mocha.css");
 
-.gallery {
+#gallery {
     margin: 2vh 2vw;
     display: grid;
     grid-template-columns: repeat(3, 1fr);

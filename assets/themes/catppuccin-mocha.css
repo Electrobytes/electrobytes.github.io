@@ -36,6 +36,10 @@ code {
     background-color: #181825;
 }
 
+.feature:hover {
+    background-color: #313244;
+}
+
 .feature-info {
     color: #bac2de;
 }

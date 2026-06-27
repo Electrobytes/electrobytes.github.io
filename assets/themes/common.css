@@ -39,11 +39,3 @@ a.clickable:link, a.clickable:visited {
     right: 2.5%;
     text-align: end;
 }
-
-/* Directory */
-.feature {
-    background-color: #181825;
-    border-radius: 1.5ch;
-    margin: 2ch;
-    padding: 1ch;
-}

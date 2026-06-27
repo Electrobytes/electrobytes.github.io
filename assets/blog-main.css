@@ -7,5 +7,14 @@
 }
 
 .feature {
-    padding: 2ch 0;
+    border-radius: 1.5ch;
+    margin: 2ch;
+    padding: 1ch;
+}
+
+.feature-info {
+    display: flex;
+    flex-direction: row;
+    padding: 0 2ch;
+    justify-content: space-between;
 }
